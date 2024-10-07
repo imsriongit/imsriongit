@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Nithyasri Poorani P G</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ2NXYwODl0cnk3YzlkNzBvdWplcGo1eWdocGx0YnVoMTVpdnAxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp">
+<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ2NXYwODl0cnk3YzlkNzBvdWplcGo1eWdocGx0YnVoMTVpdnAxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsriongit&label=Profile%20views&color=0e75b6&style=flat" alt="imsriongit" /> </p>
 
